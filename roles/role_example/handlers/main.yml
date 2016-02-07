@@ -1,0 +1,3 @@
+---
+- name: Description
+  service: name=xyz state=restarted enabled=yes

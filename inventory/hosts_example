@@ -1,0 +1,7 @@
+#Grupo de servidores
+[group_server]
+server_name key=value
+
+#Variaveis do grupo PHP
+[group_server:vars]
+key=value

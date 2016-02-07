@@ -1,0 +1,6 @@
+---
+- name: XYZ
+  hosts: group_server
+  roles:
+  - role_example
+
